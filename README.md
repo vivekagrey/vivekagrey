@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekagrey
 - 👀 I’m interested in creating something new
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning ML
 - 📫 Reach me out on: Email- vivekagrey@gmail.com, Mob- 9654751994
 
 <!---
